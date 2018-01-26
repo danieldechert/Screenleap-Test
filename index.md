@@ -35,3 +35,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<script type="text/javascript">
+    var screenleapCompanyId = 127;
+    var screenleapAccountId = 'support';
+    var screenleapBaseUrl = document.location.protocol + '//www.screenleap.com';
+    (function() {
+        var sl = document.createElement('script'); sl.type = 'text/javascript'; sl.async = true;
+        sl.src = screenleapBaseUrl + '/js/support.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sl, s);
+    })();
+</script>
